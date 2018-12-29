@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraPlusAlbum</string>
+    <string name="myURL">http://140.112.252.117:5000/predict</string>
+</resources>
